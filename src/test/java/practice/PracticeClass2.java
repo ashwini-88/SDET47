@@ -1,6 +1,6 @@
 package practice;
 
-public class PracticeClass {
+public class PracticeClass2 {
 public static void main(String[] args) {
 	System.out.println("SDET 47");
 }
